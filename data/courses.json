@@ -1,26 +1,56 @@
 [
     {
         "id":"01",
-        "name":"Javascript"
+        "name":"Javascript",
+        "image":"https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1200/api/page/6049573835898880/image/download/4629665830928384",
+        "rating":"4.9",
+        "details":"JavaScript is one of the most-used programming languages.JavaScript is a text-based programming language that allows you to create interactive elements on your web page.Javascripts includes drop-down menus to help your users make the right choice,image carousels to scroll,chat widgets that let your users reach out to you.",
+        "lesson":"10 lessons",
+        "price":"200"
     },
     {
         "id":"02",
-        "name":"Phython"
+        "name":"Phython",
+        "image":"https://cutewallpaper.org/26/best-python-programming-wallpaper/python-programming-wallpapers-wallpaper-cave.png",
+        "rating":"4.6",
+        "details":"Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.",
+        "lesson":"5 lessons",
+        "price":"100"
     },
     {
         "id":"03",
-        "name":"PHP"
+        "name":"PHP",
+        "image":"https://www.2440media.com/sites/default/files/assets/images/blog/The%20Best%20Software%20For%20PHP%20Coding.jpg",
+        "rating":"4.7",
+        "details":"PHP is an open-source server-side scripting language that many devs use for web development.PHP is platform-independent. You don't have to have a particular OS to use it because it runs on every platform, whether it's Mac, Windows, or Linux.PHP is open source and not hard to learn for absolute beginners.You can easily connect PHP to all Databases, relational and non-relational.PHP has a very supportive online community. The official documentation provides guides on how to use the features and you can easily get your problem fixed while stuck. ",
+        "lesson":"12 lessons",
+        "price":"250"
     },
     {
         "id":"04",
-        "name":"Data Structure"
+        "name":"Data Structure",
+        "image":"https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/data-structure-and-algorithm-common-types/Images/Data%20Structure%20And%20Algorithm1.jpg",
+        "rating":"4.9",
+        "details":"Data Structure is used for organizing the data in memory.Data structure and algorithms are two of the most important aspects of computer science. Data structures allow us to organize and store data, while algorithms allow us to process that data in a meaningful way. Learning data structure and algorithms will help you become a better programmer. You will be able to write code that is more efficient and more reliable. You will also be able to solve problems more quickly and more effectively.",
+        "lesson":"15 lessons",
+        "price":"300"
     },
     {
         "id":"05",
-        "name":"Graphics"
+        "name":"Computer Graphics",
+        "image":"https://media.geeksforgeeks.org/wp-content/uploads/20201120232025/aam-660x258.png",
+        "rating":"4.5",
+        "details":"Computer Graphics is the use of computers to create and manipulate pictures on a display device.It is a major component of our complex print and electronic information systems. It permeates contemporary society, delivering information, product identification, entertainment, and persuasive messages. It is used for processing image data received from the physical world, such as photo and video content.Computer graphics is responsible for displaying art and image data effectively and meaningfully to the consumer.",
+        "lesson":"11 lessons",
+        "price":"150"
     },
     {
         "id":"06",
-        "name":"CSS"
+        "name":"CSS",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFGyTTKtkpg8mnjkNDvYfoG72phu35Ij97Tw&usqp=CAU",
+        "rating":"4.7",
+        "details":"CSS is the acronym for 'Cascading Style Sheet'.CSS is used to control the style of a web document in a simple and easy way.CSS is combined with the markup languages HTML or XHTML.Using CSS, you can control the color of the text, the style of fonts, the spacing between paragraphs, how columns are sized and laid out, what background images or colors are used, layout designs,variations in display for different devices and screen sizes as well as a variety of other effects.",
+        "lesson":"13 lessons",
+        "price":"150"
     }
 ]

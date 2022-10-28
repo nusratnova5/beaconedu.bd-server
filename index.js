@@ -20,6 +20,11 @@ app.get('/courses/:name',(req,res)=>{
     const getCourseInfo=coursesInfo?.filter(course=>course.name === name);
     res.send(getCourseInfo);
 });
+app.get('/courses/name/:id',(req,res)=>{
+    const id =req.params.id;
+    const getCourseInfo=coursesInfo?.filter(course=>course.id == id);
+    res.send(getCourseInfo);
+});
 
 
 
